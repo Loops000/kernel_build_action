@@ -67,3 +67,4 @@ jobs:
           lxc: false
           lxc-patch: false
           anykernel3: true
+          extra-cmd: CROSS_COMPILE_ARM32=arm-linux-androideabi-  CROSS_COMPILE_ARM32=arm-linux-androideabi-
